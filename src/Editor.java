@@ -50,7 +50,7 @@ public class Editor extends JFrame implements ActionListener, DocumentListener {
 		setJMenuBar(menu);
 		buildMenu();		
 		
-		setSize(500, 500);
+		setSize(600, 600);
 		setVisible(true);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
